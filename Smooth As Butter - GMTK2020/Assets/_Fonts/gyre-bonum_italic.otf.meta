@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: cf3b774823dea0e4491f1849574eafc0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TeX Gyre Bonum
+  fontNames:
+  - TeX Gyre Bonum
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5cf8ad81a746afa44a45e5269fff0acf, type: 3}
+  - {fileID: 12800000, guid: 0eb3dca1fc627104cb91efeff73a5f83, type: 3}
+  - {fileID: 12800000, guid: 5ec87ccbd16ecdf418df01e1420a3418, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
